@@ -10,6 +10,7 @@ wss://relay.nostr.band
 wss://nrelay-jp.c-stellar.net
 wss://r.kojira.io
 wss://relay-jp.shino3.net
+wss://nostr.inaridiy.com
 END
 )
 
